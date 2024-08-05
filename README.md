@@ -1,7 +1,12 @@
 # ZDK-BLIPS
 
+### Supported Frameworks
 
+- qb-core
+- ESX
+- ox_core
 
+## Installation
 
 
 
