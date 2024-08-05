@@ -1,6 +1,6 @@
 # ZDK-BLIPS
 
-- [All game blips](https://docs.fivem.net/docs/game-references/blips/)
+[All game blips](https://docs.fivem.net/docs/game-references/blips/)
 
 
 
