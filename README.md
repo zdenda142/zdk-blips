@@ -22,8 +22,6 @@
 - **Alpha**: Set transparency levels for blips to control visibility.
 - **Category**: Organize blips into categories for better map management.
 
-This format highlights the main functionalities of each configuration option for easy reference.
-
 
 ## Explanation of configuration parameters:
 - title:
