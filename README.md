@@ -10,6 +10,20 @@
 
 
 
+## Features
+
+- **Title**: Customizable label for each blip.
+- **Colour**: Define specific colors for blips using predefined color codes.
+- **ID**: Choose from a variety of icons to represent different types of blips.
+- **Coords**: Set precise coordinates for blip placement on the map.
+- **Scale**: Adjust blip size with customizable scaling options.
+- **ShortRange**: Control visibility based on distance from the player.
+- **Display**: Select different map display styles for blips.
+- **Alpha**: Set transparency levels for blips to control visibility.
+- **Category**: Organize blips into categories for better map management.
+
+This format highlights the main functionalities of each configuration option for easy reference.
+
 
 ## Explanation of configuration parameters:
 - title:
