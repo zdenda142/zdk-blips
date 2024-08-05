@@ -1,6 +1,7 @@
 # ZDK-BLIPS
 
-[All game blips](https://docs.fivem.net/docs/game-references/blips/)
+- [Blips list](https://docs.fivem.net/docs/game-references/blips/)
+- [Blip colors](https://docs.fivem.net/docs/game-references/blips/#blip-colors)
 
 
 
