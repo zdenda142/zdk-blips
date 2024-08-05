@@ -1,5 +1,9 @@
 # ZDK-BLIPS
 
+- [All game blips](https://docs.fivem.net/docs/game-references/blips/)
+
+
+
 ### Supported Frameworks
 
 - qb-core
@@ -15,7 +19,7 @@
 
 - **Title**: Customizable label for each blip.
 - **Colour**: Define specific colors for blips using predefined color codes.
-- **ID**: Choose from a variety of icons to represent different types of blips.
+- **ID**: Choose from a variety of icons to represent different types of blips. 
 - **Coords**: Set precise coordinates for blip placement on the map.
 - **Scale**: Adjust blip size with customizable scaling options.
 - **ShortRange**: Control visibility based on distance from the player.
