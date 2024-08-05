@@ -7,8 +7,9 @@
 - ox_core
 
 ## Installation
-
-
+- Download ZIP
+- drag and drop the folder
+- ensure zdk-blips
 
 ## Features
 
