@@ -14,7 +14,7 @@
 
 ## Installation
 - Download ZIP
-- drag and drop the folder
+- Drag and drop resource into your server files, make sure to remove -main in the folder name
 - ensure zdk-blips
 
 ## Features
