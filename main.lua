@@ -26,12 +26,12 @@ end)
 
 AddEventHandler('onResourceStart', function(resource)
     if resource == GetCurrentResourceName() then
-        print("blips is ready")
+        print("blips are ready")
     end
 end)
 
 AddEventHandler('onResourceStop', function(resource)
     if resource == GetCurrentResourceName() then
-        print("blips is stopped")
+        print("blips are stopped")
     end
 end)
