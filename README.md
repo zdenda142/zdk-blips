@@ -6,7 +6,6 @@
 
 
 ### Supported Frameworks
-## standalone
 - [qb-core](https://github.com/qbcore-framework/qb-core)
 - [qbox](https://github.com/Qbox-project/qbx_core)
 - [ox_core](https://github.com/overextended/ox_core)
