@@ -77,9 +77,9 @@
     Specifies the category of the blip. Categories can affect how blips are organized or displayed on the map. 
     Possible values may depend on specific settings or systems, but typical categories might include:
     Example:
-        - 1 - Shops
-        - 2 - Health facilities
-        - 3 - Police stations
-        - 4 - Points of interest
-        - 5 - Gas stations
-        - 6 - Natural landmarks
+         1 - Shops
+         2 - Health facilities
+         3 - Police stations
+         4 - Points of interest
+         5 - Gas stations
+         6 - Natural landmarks
