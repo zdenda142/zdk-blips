@@ -8,6 +8,7 @@
 ### Supported Frameworks
 
 - qb-core
+- qbx_core
 - ESX
 - ox_core
 
