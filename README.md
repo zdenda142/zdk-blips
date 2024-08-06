@@ -10,7 +10,6 @@
 - [qbox](https://github.com/Qbox-project/qbx_core)
 - [ox_core](https://github.com/overextended/ox_core)
 - [esx](https://github.com/esx-framework/esx_core)
-- [nd_core](https://github.com/ND-Framework/ND_Core)
 
 ## Installation
 - Download ZIP
